@@ -52,3 +52,10 @@ footer {
   justify-content: center;
   margin-top: 10em;
 }
+.money {
+  color: #fff;
+}
+.chips {
+  display: flex;
+  width: 85%;
+}
